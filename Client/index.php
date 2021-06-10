@@ -93,7 +93,7 @@
     <!-- End of Hero Section -->
 
     <!-- Product Sections -->
-    <section class="card-section">
+    <section class="card-section" id="featureBannerGreen">
         <div class="container1">
             <div class="card">
                 <div class="card-header">
