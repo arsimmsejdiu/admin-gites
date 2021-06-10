@@ -8,7 +8,9 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+    "gsap": "^3.6.1"
+  },
   "devDependencies": {
     "node-sass": "^6.0.0"
   }

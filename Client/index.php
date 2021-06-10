@@ -13,7 +13,7 @@
     <div class="top-nav"></div>
     <nav class="site-navigation">
         <span class="menu-title">Booking</span>
-        <div class="header">
+        <div id="header" class="header">
             <form class="nav__search-btn">
                 <button>
                     <svg>
@@ -53,7 +53,7 @@
                                     <span>Helping clients with</span>
                                 </div>
                                 <div class="line">
-                                    <span>their device problems</span>
+                                    <span>their Dream Vacation</span>
                                 </div>
                             </h1>
                             <p>
@@ -90,6 +90,12 @@
     </section>
 
     <!-- End of Hero Section -->
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.7/ScrollMagic.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.7/plugins/animation.gsap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.7/plugins/debug.addIndicators.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/gsap@3.0.1/dist/gsap.min.js"></script>
+    <script src="./js/animation.js"></script>
 </body>
 
 </html>
