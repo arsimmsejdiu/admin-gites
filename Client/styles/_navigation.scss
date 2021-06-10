@@ -1,0 +1,94 @@
+.site-navigation {
+    height: 65px;
+    width: 100%;
+    background: transparent;
+    box-shadow: -1px 7px 40px -18px rgba(68, 68, 68, 0.6);
+    -webkit-box-shadow: -1px 7px 40px -18px rgba(68, 68, 68, 0.6);
+    -moz-box-shadow: -1px 7px 40px -18px rgba(68, 68, 68, 0.6);
+    transition: all 0.2s ease-in-out;
+    display: flex;
+    justify-content: space-between;
+    color: #444;
+    &:hover {
+      height: 70px;
+      background-color: rgb(230, 225, 225);
+      box-shadow: -1px 9px 40px -18px rgba(68, 68, 68, 0.6);
+      -webkit-box-shadow: -1px 9px 40px -18px rgba(68, 68, 68, 0.6);
+      -moz-box-shadow: -1px 9px 40px -18px rgba(68, 68, 68, 0.6);
+    }
+    span {
+      font-size: 1.2rem;
+      font-weight: 500;
+      display: flex;
+      align-items: center;
+      margin-left: 15px;
+      transition: all 0.2s ease-in-out;
+      cursor: pointer;
+      color: #444;
+      img {
+        width: 1.8rem;
+        padding-right: 0.6rem;
+        transition: all 0.2s ease-in-out;
+        cursor: pointer;
+        &:hover {
+          transform: translateY(-0.15rem) scale(1.1);
+        }
+      }
+    }
+  
+    ul {
+      height: 100%;
+      margin-block-start: 0;
+      margin-block-end: 0;
+      padding-inline-start: 0;
+      display: flex;
+      align-items: center;
+      list-style-type: none;
+      margin-right: 20px;
+      transition: all 0.4s ease-in-out;
+      img {
+        width: 1.8rem;
+        transition: all 0.2s ease-in-out;
+        cursor: pointer;
+        &:hover {
+          transform: translateY(-0.15rem) scale(1.1);
+        }
+      }
+  
+      a {
+        text-decoration: none;
+        padding: 0 20px 0 20px;
+        color: #444;
+        font-size: 1rem;
+        transition: all 0.4s ease-in-out;
+        &:hover {
+          color: #2297ff;
+        }
+      }
+    }
+  }
+  
+  .top-nav {
+    width: 100%;
+    height: 8px;
+    background-image: linear-gradient(
+      to right,
+      #6253e1,
+      #852d91,
+      #a3a1ff,
+      #f24645
+    );
+    -moz-transition: all 0.4s ease-in-out;
+    -o-transition: all 0.4s ease-in-out;
+    -webkit-transition: all 0.4s ease-in-out;
+    transition: all 0.4s ease-in-out;
+    &:hover {
+      background-image: linear-gradient(
+        to left,
+        #6253e1,
+        #852d91,
+        #a3a1ff,
+        #f24645
+      );
+    }
+  }
