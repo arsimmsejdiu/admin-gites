@@ -3,6 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
+    <link rel="icon" href="./images/travel.png" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./styles/css/style.css">
@@ -297,11 +298,23 @@
             <div class="col-1-of-2">
                 <div class="composition">
 
-                    <img srcset="img/nat-1.jpg 300w, img/nat-1-large.jpg 1000w" sizes="(max-width: 56.25em) 20vw, (max-width: 37.5em) 30vw, 300px" alt="Photo 1" class="composition__photo composition__photo--p1" src="img/nat-1-large.jpg">
+                    <img
+                        alt="Photo 1" 
+                        class="composition__photo composition__photo--p1" 
+                        src="./images/Rectangle.png" 
+                    />
 
-                    <img srcset="img/nat-2.jpg 300w, img/nat-2-large.jpg 1000w" sizes="(max-width: 56.25em) 20vw, (max-width: 37.5em) 30vw, 300px" alt="Photo 2" class="composition__photo composition__photo--p2" src="img/nat-2-large.jpg">
+                    <img  
+                        alt="Photo 1"
+                        class="composition__photo composition__photo--p2" 
+                        src="./images/Rectangle 27.png" 
+                    />
 
-                    <img srcset="img/nat-3.jpg 300w, img/nat-3-large.jpg 1000w" sizes="(max-width: 56.25em) 20vw, (max-width: 37.5em) 30vw, 300px" alt="Photo 3" class="composition__photo composition__photo--p3" src="img/nat-3-large.jpg">
+                    <img 
+                        alt="Photo 3" 
+                        class="composition__photo composition__photo--p3" 
+                        src="./images/Rectangle 28.png"
+                    />
 
                     <!--
                             <img src="img/nat-1-large.jpg" alt="Photo 1" class="composition__photo composition__photo--p1">
