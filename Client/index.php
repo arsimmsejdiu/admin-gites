@@ -76,12 +76,12 @@
                     <div class="image">
                         <div class="image-inner">
                             <img src="./images/Rectangle.png" alt="">
-                            <div class="feature-banner not-found" id="featureBanner">
+                            <!-- <div class="feature-banner not-found" id="featureBanner">
                                 Write to me
                             </div>
                             <div class="feature-banner green not-found" id="featureBannerGreen">
                                 All answers here
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>

@@ -216,14 +216,14 @@ body {
       .banner .banner-inner .content .content-inner h1 {
         font-family: "Playfair Display";
         color: #233567;
-        font-size: 3.4rem !important;
-        line-height: 4.8rem !important;
+        font-size: 3.4rem;
+        line-height: 4.8rem;
         margin: 32px 0 0;
         width: 620px; }
         @media (max-width: 1440px) {
           .banner .banner-inner .content .content-inner h1 {
-            font-size: 3.1rem !important;
-            line-height: 3.6rem !important; } }
+            font-size: 3.1rem;
+            line-height: 3.6rem; } }
         .banner .banner-inner .content .content-inner h1 .line {
           overflow: hidden;
           height: 70px;
@@ -283,20 +283,21 @@ body {
       justify-content: center;
       align-items: flex-end; }
       .banner .banner-inner .image .image-inner img {
-        width: 450px;
+        width: 670px;
+        height: 470px;
         position: absolute;
-        bottom: 150px;
+        bottom: 0;
         left: 0;
         right: 0;
-        z-index: 0.1; }
+        z-index: 9; }
         @media (max-width: 1440px) {
           .banner .banner-inner .image .image-inner img {
             width: 400px; } }
       .banner .banner-inner .image .image-inner .feature-banner {
         position: absolute;
-        bottom: 386px;
-        left: -50px;
-        background: #233567;
+        bottom: 286px;
+        left: -10px;
+        background: #315b96;
         color: #ffffff;
         height: 52px;
         display: flex;
@@ -306,9 +307,9 @@ body {
         font-weight: 600; }
         .banner .banner-inner .image .image-inner .feature-banner.green {
           background: #76d8aa;
-          right: 12px;
+          right: 32px;
           left: auto;
-          bottom: 166px; }
+          bottom: 116px; }
           @media (max-width: 1440px) {
             .banner .banner-inner .image .image-inner .feature-banner.green {
               right: -24px; } }
