@@ -820,6 +820,69 @@ ORDER: Base + typography > general layout + grid > page layout > components
     transform: translateX(-4rem) scale(1);
     filter: blur(3px) brightness(80%); }
 
+body {
+  font-family: "Poppins", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  height: 2000px; }
+
+.container {
+  width: 1345px;
+  min-width: 1345px;
+  margin: 0 auto; }
+  @media (max-width: 1440px) {
+    .container {
+      width: 1153px;
+      min-width: 1153px; } }
+  @media (max-width: 1152px) {
+    .container {
+      width: 961px;
+      min-width: 961px; } }
+  @media (max-width: 960px) {
+    .container {
+      width: 767px;
+      min-width: 767px; } }
+  @media (max-width: 768px) {
+    .container {
+      width: 481px;
+      min-width: 481px; } }
+  @media (max-width: 480px) {
+    .container {
+      width: 320px;
+      min-width: 320px; } }
+  .container .row {
+    display: flex;
+    align-items: center;
+    padding: 0 16px; }
+
+.container-fluid {
+  padding: 0 48px; }
+  .container-fluid .row {
+    display: flex;
+    align-items: center;
+    padding: 0 16px; }
+
+.banner1 {
+  height: 50vh;
+  position: relative; }
+  @media (max-width: 1440px) {
+    .banner1 {
+      height: 90vh; } }
+  .banner1 .banner-addition-bg1 {
+    background: #233567;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    height: 100%; }
+  .banner1 .banner-bg1 {
+    background: #ffe5e5;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    height: 100%; }
+
 /*
 0 - 600px:      Phone
 600 - 900px:    Tablet portrait
