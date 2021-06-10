@@ -67,7 +67,7 @@
                             <div class="play-video">
                                 <div class="play-video cover"></div>
                                 <span>
-                                    <img src="" alt="play icon" />
+                                    <!-- <img src="" alt="play icon" /> -->
                                     Watch Video
                                 </span>
                             </div>
