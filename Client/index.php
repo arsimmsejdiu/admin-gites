@@ -11,6 +11,7 @@
 
 <body>
     <div class="top-nav"></div>
+    <!-- Navigation Bar -->
     <nav class="site-navigation">
         <span class="menu-title">Booking</span>
         <div id="header" class="header">
@@ -38,6 +39,7 @@
             </li>
         </ul>
     </nav>
+    <!-- End Of Navigation Bar -->
 
     <!-- Hero Section -->
     <section class="banner" id="banner">
@@ -127,13 +129,13 @@
                         The future can be scary, but there are ways to
                         deal with that fear.
                     </p>
-                    <div class="user">
+                    <!-- <div class="user">
                         <img src="https://lh3.googleusercontent.com/ogw/ADGmqu8sn9zF15pW59JIYiLgx3PQ3EyZLFp5Zqao906l=s32-c-mo" alt="user" />
                         <div class="user-info">
                             <h5>Eyup Ucmaz</h5>
                             <small>Yesterday</small>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
             <div class="card">
@@ -148,13 +150,13 @@
                     <p>
                         Dashboard Design Guidelines
                     </p>
-                    <div class="user">
+                    <!-- <div class="user">
                         <img src="https://studyinbaltics.ee/wp-content/uploads/2020/03/3799Ffxy.jpg" alt="user" />
                         <div class="user-info">
                             <h5>Carrie Brewer</h5>
                             <small>1w ago</small>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
             <div class="card">
@@ -170,13 +172,13 @@
                     <p>
                         An exploration into the truck's polarising design
                     </p>
-                    <div class="user">
+                    <!-- <div class="user">
                         <img src="https://yt3.ggpht.com/a/AGF-l7-0J1G0Ue0mcZMw-99kMeVuBmRxiPjyvIYONg=s900-c-k-c0xffffffff-no-rj-mo" alt="user" />
                         <div class="user-info">
                             <h5>July Dec</h5>
                             <small>2h ago</small>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
             <div class="card">
@@ -192,13 +194,13 @@
                         The future can be scary, but there are ways to
                         deal with that fear.
                     </p>
-                    <div class="user">
+                    <!-- <div class="user">
                         <img src="https://lh3.googleusercontent.com/ogw/ADGmqu8sn9zF15pW59JIYiLgx3PQ3EyZLFp5Zqao906l=s32-c-mo" alt="user" />
                         <div class="user-info">
                             <h5>Eyup Ucmaz</h5>
                             <small>Yesterday</small>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
             <div class="card">
@@ -214,13 +216,13 @@
                     <p>
                         An exploration into the truck's polarising design
                     </p>
-                    <div class="user">
+                    <!-- <div class="user">
                         <img src="https://yt3.ggpht.com/a/AGF-l7-0J1G0Ue0mcZMw-99kMeVuBmRxiPjyvIYONg=s900-c-k-c0xffffffff-no-rj-mo" alt="user" />
                         <div class="user-info">
                             <h5>July Dec</h5>
                             <small>2h ago</small>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
             <div class="card">
@@ -236,13 +238,13 @@
                         The future can be scary, but there are ways to
                         deal with that fear.
                     </p>
-                    <div class="user">
+                    <!-- <div class="user">
                         <img src="https://lh3.googleusercontent.com/ogw/ADGmqu8sn9zF15pW59JIYiLgx3PQ3EyZLFp5Zqao906l=s32-c-mo" alt="user" />
                         <div class="user-info">
                             <h5>Eyup Ucmaz</h5>
                             <small>Yesterday</small>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
             <div class="card">
@@ -257,17 +259,60 @@
                     <p>
                         Dashboard Design Guidelines
                     </p>
-                    <div class="user">
+                    <!-- <div class="user">
                         <img src="https://studyinbaltics.ee/wp-content/uploads/2020/03/3799Ffxy.jpg" alt="user" />
                         <div class="user-info">
                             <h5>Carrie Brewer</h5>
                             <small>1w ago</small>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
     </section>
     <!-- End Of Product Sections -->
+
+    <!-- About Section -->
+    <section class="section-about">
+        <div class="u-center-text u-margin-bottom-big">
+            <h2 class="heading-secondary">
+                Exciting tours for adventurous people
+            </h2>
+        </div>
+
+        <div class="row">
+            <div class="col-1-of-2">
+                <h3 class="heading-tertiary u-margin-bottom-small">You're going to fall in love with nature</h3>
+                <p class="paragraph">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam, ipsum sapiente aspernatur libero repellat quis consequatur
+                    ducimus quam nisi exercitationem omnis earum qui.
+                </p>
+
+                <h3 class="heading-tertiary u-margin-bottom-small">Live adventures like you never have before</h3>
+                <p class="paragraph">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores nulla deserunt voluptatum nam.
+                </p>
+
+                <a href="#" class="btn-text">Learn more &rarr;</a>
+            </div>
+            <div class="col-1-of-2">
+                <div class="composition">
+
+                    <img srcset="img/nat-1.jpg 300w, img/nat-1-large.jpg 1000w" sizes="(max-width: 56.25em) 20vw, (max-width: 37.5em) 30vw, 300px" alt="Photo 1" class="composition__photo composition__photo--p1" src="img/nat-1-large.jpg">
+
+                    <img srcset="img/nat-2.jpg 300w, img/nat-2-large.jpg 1000w" sizes="(max-width: 56.25em) 20vw, (max-width: 37.5em) 30vw, 300px" alt="Photo 2" class="composition__photo composition__photo--p2" src="img/nat-2-large.jpg">
+
+                    <img srcset="img/nat-3.jpg 300w, img/nat-3-large.jpg 1000w" sizes="(max-width: 56.25em) 20vw, (max-width: 37.5em) 30vw, 300px" alt="Photo 3" class="composition__photo composition__photo--p3" src="img/nat-3-large.jpg">
+
+                    <!--
+                            <img src="img/nat-1-large.jpg" alt="Photo 1" class="composition__photo composition__photo--p1">
+                            <img src="img/nat-2-large.jpg" alt="Photo 2" class="composition__photo composition__photo--p2">
+                            <img src="img/nat-3-large.jpg" alt="Photo 3" class="composition__photo composition__photo--p3">
+                            -->
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End of About Section -->
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.7/ScrollMagic.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.7/plugins/animation.gsap.min.js"></script>
