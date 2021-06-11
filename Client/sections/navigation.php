@@ -15,7 +15,7 @@
             <a href="index.php">Home</a>
         </li>
         <li>
-            <a href="hotels.php">Hotels</a>
+            <a href="hotels.php">Listings</a>
         </li>
         <li>
             <a href="about.php">About</a>
