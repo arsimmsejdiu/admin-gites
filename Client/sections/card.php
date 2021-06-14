@@ -12,13 +12,12 @@
                     sunt doloremque repellendus pariatur ad. Necessitatibus
                     beatae, alias assumenda.
                 </p>
-                <!-- <div class="user">
-                        <img src="https://yt3.ggpht.com/a/AGF-l7-0J1G0Ue0mcZMw-99kMeVuBmRxiPjyvIYONg=s900-c-k-c0xffffffff-no-rj-mo" alt="user" />
-                        <div class="user-info">
-                            <h5>July Dec</h5>
-                            <small>2h ago</small>
-                        </div>
-                    </div> -->
+                <div class="user">
+                    <a href="details.php"><button>Book Now</button></a>
+                    <div class="user-info">
+                        <h5>$109/<small>day</small></h5>
+                    </div>
+                </div>
             </div>
         </div>
         <div class="card">
@@ -34,13 +33,12 @@
                     The future can be scary, but there are ways to
                     deal with that fear.
                 </p>
-                <!-- <div class="user">
-                        <img src="https://lh3.googleusercontent.com/ogw/ADGmqu8sn9zF15pW59JIYiLgx3PQ3EyZLFp5Zqao906l=s32-c-mo" alt="user" />
-                        <div class="user-info">
-                            <h5>Eyup Ucmaz</h5>
-                            <small>Yesterday</small>
-                        </div>
-                    </div> -->
+                <div class="user">
+                    <a href="details.php"><button>Book Now</button></a>
+                    <div class="user-info">
+                        <h5>$109/<small>day</small></h5>
+                    </div>
+                </div>
             </div>
         </div>
         <div class="card">
@@ -55,13 +53,12 @@
                 <p>
                     Dashboard Design Guidelines
                 </p>
-                <!-- <div class="user">
-                        <img src="https://studyinbaltics.ee/wp-content/uploads/2020/03/3799Ffxy.jpg" alt="user" />
-                        <div class="user-info">
-                            <h5>Carrie Brewer</h5>
-                            <small>1w ago</small>
-                        </div>
-                    </div> -->
+                <div class="user">
+                    <a href="details.php"><button>Book Now</button></a>
+                    <div class="user-info">
+                        <h5>$109/<small>day</small></h5>
+                    </div>
+                </div>
             </div>
         </div>
         <div class="card">
@@ -77,13 +74,12 @@
                 <p>
                     An exploration into the truck's polarising design
                 </p>
-                <!-- <div class="user">
-                        <img src="https://yt3.ggpht.com/a/AGF-l7-0J1G0Ue0mcZMw-99kMeVuBmRxiPjyvIYONg=s900-c-k-c0xffffffff-no-rj-mo" alt="user" />
-                        <div class="user-info">
-                            <h5>July Dec</h5>
-                            <small>2h ago</small>
-                        </div>
-                    </div> -->
+                <div class="user">
+                    <a href="details.php"><button>Book Now</button></a>
+                    <div class="user-info">
+                        <h5>$109/<small>day</small></h5>
+                    </div>
+                </div>
             </div>
         </div>
         <div class="card">
@@ -99,13 +95,12 @@
                     The future can be scary, but there are ways to
                     deal with that fear.
                 </p>
-                <!-- <div class="user">
-                        <img src="https://lh3.googleusercontent.com/ogw/ADGmqu8sn9zF15pW59JIYiLgx3PQ3EyZLFp5Zqao906l=s32-c-mo" alt="user" />
-                        <div class="user-info">
-                            <h5>Eyup Ucmaz</h5>
-                            <small>Yesterday</small>
-                        </div>
-                    </div> -->
+                <div class="user">
+                    <a href="details.php"><button>Book Now</button></a>
+                    <div class="user-info">
+                        <h5>$109/<small>day</small></h5>
+                    </div>
+                </div>
             </div>
         </div>
         <div class="card">
@@ -121,13 +116,12 @@
                 <p>
                     An exploration into the truck's polarising design
                 </p>
-                <!-- <div class="user">
-                        <img src="https://yt3.ggpht.com/a/AGF-l7-0J1G0Ue0mcZMw-99kMeVuBmRxiPjyvIYONg=s900-c-k-c0xffffffff-no-rj-mo" alt="user" />
-                        <div class="user-info">
-                            <h5>July Dec</h5>
-                            <small>2h ago</small>
-                        </div>
-                    </div> -->
+                <div class="user">
+                    <a href="details.php"><button>Book Now</button></a>
+                    <div class="user-info">
+                        <h5>$109/<small>day</small></h5>
+                    </div>
+                </div>
             </div>
         </div>
         <div class="card">
@@ -143,13 +137,12 @@
                     The future can be scary, but there are ways to
                     deal with that fear.
                 </p>
-                <!-- <div class="user">
-                        <img src="https://lh3.googleusercontent.com/ogw/ADGmqu8sn9zF15pW59JIYiLgx3PQ3EyZLFp5Zqao906l=s32-c-mo" alt="user" />
-                        <div class="user-info">
-                            <h5>Eyup Ucmaz</h5>
-                            <small>Yesterday</small>
-                        </div>
-                    </div> -->
+                <div class="user">
+                    <a href="details.php"><button>Book Now</button></a>
+                    <div class="user-info">
+                        <h5>$109/<small>day</small></h5>
+                    </div>
+                </div>
             </div>
         </div>
         <div class="card">
@@ -164,13 +157,12 @@
                 <p>
                     Dashboard Design Guidelines
                 </p>
-                <!-- <div class="user">
-                        <img src="https://studyinbaltics.ee/wp-content/uploads/2020/03/3799Ffxy.jpg" alt="user" />
-                        <div class="user-info">
-                            <h5>Carrie Brewer</h5>
-                            <small>1w ago</small>
-                        </div>
-                    </div> -->
+                <div class="user">
+                    <a href="details.php"><button>Book Now</button></a>
+                    <div class="user-info">
+                        <h5>$109/<small>day</small></h5>
+                    </div>
+                </div>
             </div>
         </div>
 </section>
