@@ -9,14 +9,14 @@ require('./sections/navigation.php')
 <!-- End Of Navigation Bar -->
 
 <!-- Hero Section -->
-<?php 
-    require('./sections/banner.php');
+<?php
+require('./sections/banner.php');
 ?>
 <!-- End of Hero Section -->
 
 <!-- Product Sections -->
-<?php 
-    require('./sections/card.php')
+<?php
+require('./sections/card.php');
 ?>
 <!-- End Of Product Sections -->
 
